@@ -116,8 +116,13 @@ I am deeply passionate about the world of data science and its transformative po
 ![](https://github-profile-trophy.vercel.app/?username=KavinduR0713&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KavinduR0713&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KavinduR0713&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
+<p align = "center">
+  <a href = "https://drive.google.com/file/d/1xHtsXkxdmAirnS54Bu-zDgk7TfnDkLaf/view?usp=sharing" download>
+    <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
+  </a>
+</p>
 
 </body>
 </html>
