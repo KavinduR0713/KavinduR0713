@@ -106,6 +106,12 @@ I am deeply passionate about the world of data science and its transformative po
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </div>
 
+<h3 align="left">Resume:</h3>
+<p align = "left">
+  <a href = "https://drive.google.com/file/d/1xHtsXkxdmAirnS54Bu-zDgk7TfnDkLaf/view?usp=sharing" download>
+    <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
+  </a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KavinduR0713&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KavinduR0713&theme=dark&hide_border=false)<br/>
@@ -118,12 +124,8 @@ I am deeply passionate about the world of data science and its transformative po
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KavinduR0713&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
-<p align = "center">
-  <a href = "https://drive.google.com/file/d/1xHtsXkxdmAirnS54Bu-zDgk7TfnDkLaf/view?usp=sharing" download>
-    <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
-  </a>
-</p>
 
+</p>
 </body>
 </html>
 
