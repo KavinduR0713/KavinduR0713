@@ -112,6 +112,23 @@ I am deeply passionate about the world of data science and its transformative po
     <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
   </a>
 
+## 📝 Articles
+
+### Medium:
+<a href="https://medium.com/@nirmalrathnasiri85" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1wZ32RPD3A03Ix6c9H2Q7ZBcytbsUNMZF" alt="Medium Logo" style="width:100px;height:auto;">
+    </a>
+
+### Power BI Ministry:
+<a href="https://www.linkedin.com/newsletters/7174650552461537280/" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1j7Zi2nGgj_LLwboCLE5NFzlGlZzQpeBC" alt="Power BI Ministry Logo" style="width:100px;height:auto;">
+    </a>
+
+### Data Science & AI Hub:
+<a href="https://www.linkedin.com/newsletters/7121729799575797760/" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1ZWOZZ5qfvJQOhqs3x9PuDWeR0Qg3iAAy" alt="Data Science & AI Hub Logo" style="width:100px;height:auto;">
+    </a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KavinduR0713&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KavinduR0713&theme=dark&hide_border=false)<br/>
@@ -123,6 +140,7 @@ I am deeply passionate about the world of data science and its transformative po
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KavinduR0713&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+
 
 
 </p>
