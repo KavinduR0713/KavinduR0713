@@ -108,7 +108,7 @@ I am deeply passionate about the world of data science and its transformative po
 
 <h3 align="left">Resume:</h3>
 <p align = "left">
-  <a href = "https://drive.google.com/file/d/1xHtsXkxdmAirnS54Bu-zDgk7TfnDkLaf/view?usp=sharing" download>
+  <a href = "https://drive.google.com/file/d/1T93G-Q-CMawy-AAL9Hst75UlYD4-eoVx/view?usp=sharing" download>
     <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
   </a>
 
