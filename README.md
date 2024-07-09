@@ -112,6 +112,14 @@ I am deeply passionate about the world of data science and its transformative po
     <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
   </a>
 
+  <h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%2300ADD8.svg?style=for-the-badge&logo=view&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
+
+
 
 ## 📝 Articles
 
