@@ -114,7 +114,7 @@ I am deeply passionate about the world of data science and its transformative po
 
   <h3 align="left">Portfolio:</h3>
 <p align="left">
-  <a href="Portfolio" target="_blank">
+  <a href="https://kavindur0713.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-%2300ADD8.svg?style=for-the-badge&logo=view&logoColor=white" alt="View Portfolio" />
   </a>
 </p>
