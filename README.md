@@ -31,6 +31,19 @@ I am deeply passionate about the world of data science and its transformative po
 
 - ⚡ Fun fact **Ready to unleash the power of Data Science and AI on the world!**
 
+<h3 align="left">Resume:</h3>
+<p align = "left">
+  <a href = "https://drive.google.com/file/d/1T93G-Q-CMawy-AAL9Hst75UlYD4-eoVx/view?usp=sharing" download>
+    <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
+  </a>
+
+  <h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://kavindur0713.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%2300ADD8.svg?style=for-the-badge&logo=view&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:nirmalrathnasiri@gmail.com"><img src="https://img.shields.io/badge/nirmalrathnasiri@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -105,19 +118,6 @@ I am deeply passionate about the world of data science and its transformative po
 <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </div>
-
-<h3 align="left">Resume:</h3>
-<p align = "left">
-  <a href = "https://drive.google.com/file/d/1T93G-Q-CMawy-AAL9Hst75UlYD4-eoVx/view?usp=sharing" download>
-    <img src = "https://img.shields.io/badge/Download%20CV-%2300ADD8.svg?style=for-the-badge&logo=download&logoColor=white" alt = "Download CV" />
-  </a>
-
-  <h3 align="left">Portfolio:</h3>
-<p align="left">
-  <a href="https://kavindur0713.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-%2300ADD8.svg?style=for-the-badge&logo=view&logoColor=white" alt="View Portfolio" />
-  </a>
-</p>
 
 
 
